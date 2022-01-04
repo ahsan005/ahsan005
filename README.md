@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsan005
 - 👀 I’m interested in Microsoft Dot Net Technologies Including ASP Dot NET MVC, WEB API, WCF
-- 🌱 I’m currently learning WCF And WEB API 
+- 🌱 Working on apps based on Angular 13 And .NET 6
 
 -    I am a Student of Bachelors in Computer Sciences, also work Full time as a Junior Dot Net Developer
 
