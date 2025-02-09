@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahsan005
 - 👀 I’m interested in Microsoft Dot Net Technologies Including ASP Dot NET MVC, WEB API, WCF
-- 🌱 Working on apps based on Angular 13 And .NET 6
+- 🌱 Working on apps based on Angular And .NET
 
--    I am a Student of Bachelors in Computer Sciences, also work Full time as a Junior Dot Net Developer
+-    I have graduated as a CS Major and work Full time as a Software Engineer.
 
 - 💞️ I’m looking to collaborate on Cool Open Source Projects
 - 📫 How to reach me Reach me in DM's or Email At ahsan105@icloud.com
